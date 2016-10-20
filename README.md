@@ -31,7 +31,7 @@ Here's a sample implementation using the react-sortable higher order component:
 
 ```js
 import React from 'react';
-import { sortable } from 'react-sortable';
+import { Sortable } from 'react-sortable';
 
 var ListItem = React.createClass({
   displayName: 'SortableListItem',
